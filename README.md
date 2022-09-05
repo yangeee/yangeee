@@ -1,5 +1,9 @@
-### Hi there 👋
+# 欢迎光临 👋
+23岁，是前端
+- 🔭 I’m currently working on  **Wondershare**
+- 🌱 I’m currently learning **Typescript & React & Leetcode**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangeee&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)](https://github.com/yangeee)
 <!--
 **yangeee/yangeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
